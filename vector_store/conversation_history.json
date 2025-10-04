@@ -1,0 +1,17 @@
+[
+  {
+    "query": "Explain your project",
+    "answer": "Based on the provided resume, Tushar worked on several projects during his time as a Data Science Trainee at Appwars Technologies:\n\n*   **ML Model Development:** He developed Machine Learning models using Python and Scikit-learn, achieving an accuracy of 85%.\n*   **End-to-End AI Workflows:** He built complete AI workflows, which included exploratory data analysis, data preprocessing, feature engineering, and model deployment. This work reduced manual effort by 30%.\n*   **Power BI Dashboards:** He designed and implemented Power BI dashboards that improved client decision-making speed for targeting marketing campaigns by 12%.",
+    "sources": []
+  },
+  {
+    "query": "Tell me the name of project",
+    "answer": "I don't know the name of the project. The provided text describes tasks and achievements within roles (Data Science Trainee, Data Annotator) but does not name any specific projects.",
+    "sources": []
+  },
+  {
+    "query": "What about this file",
+    "answer": "This file contains information about a single passenger, Mr. Wazli Yousif (PassengerId: 355), from the Titanic dataset.\n\nHere are the details:\n*   **Survived:** No (0)\n*   **Class:** 3rd class\n*   **Sex:** Male\n*   **Age:** Unknown\n*   **Siblings/Spouses Aboard (SibSp):** 0\n*   **Parents/Children Aboard (Parch):** 0\n*   **Ticket Number:** 2647\n*   **Fare:** 7.225\n*   **Cabin:** Unknown\n*   **Port of Embarkation:** Cherbourg (C)",
+    "sources": []
+  }
+]
